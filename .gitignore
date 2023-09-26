@@ -1,0 +1,41 @@
+# output dir
+outputs
+output
+joblog
+
+*.jpg
+*.png
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+build/
+dist/
+/datasets
+/data
+*egg-info/**
+
+# pytorch/python/numpy formats
+*.pth
+*.pt
+*.pyth
+*.pkl
+*.npy
+*.npz
+
+# ipython/jupyter notebooks
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# VS code
+.vscode

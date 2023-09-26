@@ -1,0 +1,17 @@
+{
+    "steps_per_print": 100,
+    "zero_optimization": {
+        "stage": 0,
+        "reduce_bucket_size": 5e8,
+        "allgather_bucket_size": 5e8,
+        "cpu_offload": false
+    },
+    "zero_allow_untested_optimizer": true,
+    "fp16": {
+        "enabled": false,
+        "initial_scale_power": 12
+    },
+    "tensorboard":{
+        "enabled":true
+    }
+}

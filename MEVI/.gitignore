@@ -1,0 +1,6 @@
+logs/
+wandb/
+yamls/
+scripts/
+pngs/
+.cache/
