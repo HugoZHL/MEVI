@@ -1,4 +1,4 @@
-# [NeurIPS 2023] Model-enhanced Vector Index ([Paper](https://arxiv.org/abs/2309.13335))
+# [NeurIPS 2023] Model-enhanced Vector Index ([Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf))
 
 ## Environment
 
@@ -251,7 +251,7 @@ bash MEVI/nqdpr_ensemble.sh
 ```
 
 ## Citation
-If you find this work useful, please cite [our paper](https://arxiv.org/abs/2309.13335).
+If you find this work useful, please cite [our paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf).
 
 
 ## Acknowledgement
