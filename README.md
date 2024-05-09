@@ -255,9 +255,9 @@ If you find this work useful, please cite [our paper](https://proceedings.neurip
 
 
 ## Acknowledgement
-We learned a lot and borrowed some code from the following projects when building MEVI.
+We learned a lot and borrowed some codes from the following projects when building MEVI.
 
 * [NCI](https://github.com/solidsea98/Neural-Corpus-Indexer-NCI)
 * [Transformers](https://github.com/huggingface/transformers)
 * [OpenMatch](https://github.com/openmatch/openmatch)
-* [DPQ](https://github.com/facebookresearch/DPR)
+* [DPR](https://github.com/facebookresearch/DPR)
